@@ -7,6 +7,7 @@ Given an array A and an integer B. A pair(i, j) in the array is a good pair if i
 
 
 Test Cases:
+
 Input 
 A = [1,2,3,4]
 B = 7
